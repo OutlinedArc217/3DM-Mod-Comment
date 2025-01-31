@@ -1,0 +1,99 @@
+/* 设置全局黑色背景和白色文字 */
+body {
+  background-color: #121212;
+  color: #ffffff;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+/* 页面内容区域 */
+#app {
+  padding: 20px;
+  min-height: 100vh;
+}
+
+/* 输入框 */
+textarea {
+  background-color: #333;
+  color: #fff;
+  border: 1px solid #555;
+  border-radius: 5px;
+  padding: 10px;
+  width: 100%;
+  font-size: 14px;
+}
+
+/* 按钮样式 */
+button {
+  background-color: #00aaff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0088cc;
+}
+
+/* 评论框 */
+.comment-box {
+  background: #222;
+  padding: 15px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+/* 评论列表 */
+.comment-item {
+  background: #333;
+  padding: 10px;
+  margin-bottom: 15px;
+  border-radius: 8px;
+}
+
+.comment-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.comment-header .avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+
+.comment-header .username {
+  font-weight: bold;
+  color: #00aaff;
+}
+
+.comment-text {
+  color: #bbb;
+}
+
+/* 子评论样式 */
+.replies {
+  margin-left: 20px;
+}
+
+.reply-box {
+  background: #444;
+  padding: 10px;
+  border-radius: 8px;
+  margin-top: 10px;
+}
+
+.reply-box textarea {
+  background-color: #555;
+  color: #fff;
+  border: 1px solid #777;
+  border-radius: 5px;
+  padding: 8px;
+  width: 100%;
+}

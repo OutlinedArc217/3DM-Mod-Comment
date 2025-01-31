@@ -1,0 +1,5 @@
+const styles = "body{background-color:#121212;color:#fff;font-family:Arial,sans-serif;margin:0;padding:0}#app{min-height:100vh;padding:20px}textarea{background-color:#333;border:1px solid #555;border-radius:5px;color:#fff;font-size:14px;padding:10px;width:100%}button{background-color:#0af;border:none;border-radius:5px;color:#fff;cursor:pointer;padding:10px 20px}button:hover{background-color:#08c}.comment-box{background:#222;border-radius:8px;margin-bottom:10px;padding:15px}.comment-item{background:#333;border-radius:8px;margin-bottom:15px;padding:10px}.comment-header{align-items:center;display:flex;gap:10px}.comment-header .avatar{border-radius:50%;height:40px;width:40px}.comment-header .username{color:#0af;font-weight:700}.comment-text{color:#bbb}.replies{margin-left:20px}.reply-box{background:#444;border-radius:8px;margin-top:10px;padding:10px}.reply-box textarea{background-color:#555;border:1px solid #777;border-radius:5px;color:#fff;padding:8px;width:100%}";
+export {
+  styles as default
+};
+//# sourceMappingURL=entry-styles-1.mjs-C4_fh9pw.js.map

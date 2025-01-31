@@ -1,0 +1,18 @@
+{
+  "@vite/client": {
+    "prefetch": true,
+    "isEntry": true,
+    "file": "@vite/client",
+    "css": [],
+    "module": true,
+    "resourceType": "script"
+  },
+  "/data/data/com.termux/files/home/3DM-Mod-Comment/node_modules/.pnpm/nuxt@3.15.4_@parcel+watcher@2.5.1_@types+node@22.12.0_db0@0.2.3_eslint@8.57.1_ioredis@5_55fd7895796c14f8b86b6ecc17c40b52/node_modules/nuxt/dist/app/entry.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "isEntry": true,
+    "file": "/data/data/com.termux/files/home/3DM-Mod-Comment/node_modules/.pnpm/nuxt@3.15.4_@parcel+watcher@2.5.1_@types+node@22.12.0_db0@0.2.3_eslint@8.57.1_ioredis@5_55fd7895796c14f8b86b6ecc17c40b52/node_modules/nuxt/dist/app/entry.js"
+  }
+}
