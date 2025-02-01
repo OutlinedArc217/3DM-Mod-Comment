@@ -202,5 +202,5 @@ GET /api/comments
 
 ---
 
-## 📄 许可证  
-MIT License © 2025 OutlinedArc217
+## 📄 许可证 
+[![WTFPL](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png)](http://www.wtfpl.net/)
